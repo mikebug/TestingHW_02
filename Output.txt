@@ -1,0 +1,17 @@
+"C:\Users\Mike's PC\AppData\Local\Programs\Python\Python36-32\python.exe" "C:\Users\Mike's PC\Desktop\Testing_Homework\HW2\TestingHW_02\Triangle.py"
+
+Process finished with exit code 0
+
+
+Testing started at 11:59 PM ...
+"C:\Users\Mike's PC\AppData\Local\Programs\Python\Python36-32\python.exe" "C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4\helpers\pycharm\_jb_unittest_runner.py" --path "C:/Users/Mike's PC/Desktop/Testing_Homework/HW2/TestingHW_02/TestTriangle.py"
+Launching unittests with arguments python -m unittest C:/Users/Mike's PC/Desktop/Testing_Homework/HW2/TestingHW_02/TestTriangle.py in C:\Users\Mike's PC\Desktop\Testing_Homework\HW2
+
+
+
+Ran 5 tests in 0.002s
+
+OK
+
+Process finished with exit code 0
+ 
